@@ -1,13 +1,23 @@
 import 'dart:ui';
 
-class CustomColor{
-  static const Color scaffloldBg = Color(0xff252734);
-  static const Color bgLight1 = Color(0xff333646);
-  static const Color bgLight2 = Color(0xff434657);
-  static const Color textFieldBg = Color(0xffc8c9ce);
-  static const Color hintDark = Color(0xff666874);
-  static const Color yellowsecondary = Color(0xffffc25c);
-  static const Color yellowPrimary = Color(0xffffaf29);
-  static const Color whitePrimary = Color(0xffeaeaeb);
-  static const Color whilteSecondary = Color(0xffc8c9ce);
-}
+        class CustomColor{
+
+        static const Color scaffloldBg = Color(0xff008fff);
+
+        static const Color bgLight1 = Color(0xff0000ff);
+
+        static const Color bgLight2 = Color(0xffe0ff00 );
+
+        static const Color textFieldBg = Color(0xff00ffaa);
+
+        static const Color hintDark = Color(0xff5900ff);
+
+        static const Color yellowsecondary = Color(0xffd7ff00);
+
+        static const Color yellowPrimary = Color(0xfff2ff00);
+
+        static const Color whitePrimary = Color(0xfff7f5f5);
+
+        static const Color whilteSecondary = Color(0xfffbf6f6);
+ 
+        }
